@@ -1,18 +1,4 @@
-# Task Description
-
-[https://kb.epam.com/pages/viewpage.action?pageId=416040350](https://kb.epam.com/pages/viewpage.action?pageId=416040350)
-
 A Hero App in React.
-
-
-# Evaluation
-0. Nothing done
-1. "Dashboard" screen in place
-2. "Dashboard" + "Heroes" screens
-3. "Edit name" screen is implemented
-4. Unit tests for implemented functionality
-5. All screen implemented with React Router 
-6. Implement application using Redux architecture
 
 # Features
 - React
