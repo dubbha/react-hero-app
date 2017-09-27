@@ -1,7 +1,12 @@
 {
     "presets": [
-        "es2015",
-        "es2016",
+        ["env", {
+            "targets": {
+            "browsers": ["> 1%"]
+            },
+            "useBuiltIns": true,
+            "debug": false
+        }],
         "react"
     ],
     "plugins": [
