@@ -66,8 +66,7 @@
     "reselect": "^3.0.1"
   },
   "pre-commit": [
-    "lint",
-    "test"
+    "lint"
   ],
   "jest": {
     "modulePaths": [
