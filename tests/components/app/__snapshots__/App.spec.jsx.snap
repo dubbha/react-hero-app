@@ -17,6 +17,7 @@ exports[`App should render successfully 1`] = `
   <nav>
     <NavLink
       activeClassName="active"
+      ariaCurrent="true"
       className="app__navLink"
       to="/dashboard"
     >
@@ -24,6 +25,7 @@ exports[`App should render successfully 1`] = `
     </NavLink>
     <NavLink
       activeClassName="active"
+      ariaCurrent="true"
       className="app__navLink"
       to="/heroes"
     >

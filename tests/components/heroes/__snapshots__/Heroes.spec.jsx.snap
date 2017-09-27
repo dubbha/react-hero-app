@@ -18,6 +18,7 @@ exports[`Heroes should render heroes list 1`] = `
           "name": "Optimus Drie",
         }
       }
+      key="3"
       setSelectedHero={[Function]}
     />
     <HeroesHero
@@ -28,6 +29,7 @@ exports[`Heroes should render heroes list 1`] = `
           "name": "Optimus Fier",
         }
       }
+      key="4"
       setSelectedHero={[Function]}
     />
     <HeroesHero
@@ -38,6 +40,7 @@ exports[`Heroes should render heroes list 1`] = `
           "name": "Optimus Funf",
         }
       }
+      key="5"
       setSelectedHero={[Function]}
     />
   </ul>

@@ -49,7 +49,9 @@ describe('Heroes', () => {
       ],
     };
     const wrapper = shallow(<Heroes {...props} />);
+
     wrapper.find('HeroesHero').at(1).prop('setSelectedHero')();
-    expect(wrapper.find('HeroesHero').at(1).hasClass('selected')).toEqual(true);
+
+    expect(wrapper.state('selectedHero')).toEqual({ id: 4, name: 'Optimus Fier' });
   });
 });

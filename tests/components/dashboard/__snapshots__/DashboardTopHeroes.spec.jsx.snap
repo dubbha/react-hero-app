@@ -15,6 +15,7 @@ exports[`DashboardTopHeroes should render dashboard top heroes list 1`] = `
           "name": "Optimus Prime",
         }
       }
+      key="1"
     />
     <DashboardTopHero
       hero={
@@ -23,6 +24,7 @@ exports[`DashboardTopHeroes should render dashboard top heroes list 1`] = `
           "name": "Optimus Duos",
         }
       }
+      key="2"
     />
     <DashboardTopHero
       hero={
@@ -31,6 +33,7 @@ exports[`DashboardTopHeroes should render dashboard top heroes list 1`] = `
           "name": "Optimus Tres",
         }
       }
+      key="3"
     />
   </div>
 </div>
